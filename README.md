@@ -17,6 +17,7 @@ Lista de eventos com alguma relação a sistemas embarcados
 - [TDC (The Developer Conference)](https://thedevconf.com/)
 - [Tosconf](https://tosconf.lhc.net.br/)
 - [YSTS – You Shot The Sheriff](https://www.ysts.org/)
+- [ESC Brazil - Embedded System Conference](https://feirasindustriais.com.br/eletroeletronico/esc-brazil-%E2%80%93maior-feira-de-design-de-letr%C3%B4nico-da-am%C3%A9rica-latina)
 
 #### Online
 - [Webminars embarcados](https://www.embarcados.com.br/webinars/)
